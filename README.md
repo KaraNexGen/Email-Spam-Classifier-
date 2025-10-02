@@ -1,14 +1,34 @@
-# 📧 Advanced Email Spam Classifier
+📧 Email Spam Classifier using Machine Learning & NLP
+📌 Project Description
 
-A comprehensive Machine Learning-based Email Spam Classifier with innovative features, advanced text processing, and real-time classification capabilities.
+The Email Security Intelligence System (ESIS) is a machine learning–based email threat detection solution that goes beyond traditional spam filters. Unlike simple binary spam detection, ESIS performs multi-class classification to identify:
 
-## 🌟 Features
+Spam (Unwanted advertisements/junk)
+
+Phishing (Fraudulent attempts to steal information)
+
+Ham (Legitimate emails)
+
+ESIS leverages Natural Language Processing (NLP) for text cleaning, feature engineering to extract threat-related patterns, and ensemble learning algorithms for high accuracy. It also integrates Explainable AI (XAI) to provide insights into classification decisions.
+
+🎯 Objectives
+
+Primary: Detect Spam, Phishing, and Ham emails.
+
+Secondary: Provide Explainable AI insights behind classification.
+
+Tertiary: Build a scalable, real-time system with a user-friendly web interface.
+
+Research: Demonstrate the effectiveness of NLP + Ensemble Learning in email security.
+
 
 ### Core Functionality
 - **Multi-Algorithm Approach**: Naive Bayes, Logistic Regression, SVM, Random Forest, XGBoost, LightGBM, CatBoost
 - **Ensemble Learning**: Voting classifier combining multiple models for improved accuracy
 - **Real-time Classification**: Fast prediction with confidence scores
 - **Batch Processing**: Classify multiple emails simultaneously
+  
+  📊 Workflow Diagram
 
 ### Innovative Features
 - **Advanced Text Preprocessing**: Comprehensive cleaning, stemming, lemmatization
@@ -29,6 +49,8 @@ A comprehensive Machine Learning-based Email Spam Classifier with innovative fea
 - **Comprehensive Visualizations**: Word clouds, feature importance, performance metrics
 - **Real-time Analysis**: Live feature analysis and prediction explanations
 - **Statistical Reports**: Detailed performance metrics and model comparisons
+
+📸 Output
 
 ### API & Deployment
 - **REST API**: FastAPI-based server with comprehensive endpoints
@@ -243,33 +265,8 @@ Email-Spam-Classifier/
 - **Cloud Deployment**: AWS, Azure, GCP deployment options
 - **Mobile Apps**: React Native, Flutter applications
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- SMS Spam Collection Dataset
-- scikit-learn community
-- NLTK and spaCy teams
-- Streamlit and FastAPI developers
-- Open source ML community
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- Create an issue on GitHub
-- Contact: [your-email@example.com]
-- Documentation: [link-to-docs]
-
----
 
 **Built with ❤️ using Python, scikit-learn, and modern ML techniques**
+
