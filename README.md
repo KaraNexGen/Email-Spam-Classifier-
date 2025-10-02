@@ -1,5 +1,6 @@
-📧 Email Spam Classifier using Machine Learning & NLP
-📌 Project Description
+📧 ### Email Spam Classifier using Machine Learning & NLP
+
+📌### Project Description
 
 The Email Security Intelligence System (ESIS) is a machine learning–based email threat detection solution that goes beyond traditional spam filters. Unlike simple binary spam detection, ESIS performs multi-class classification to identify:
 
@@ -11,7 +12,7 @@ Ham (Legitimate emails)
 
 ESIS leverages Natural Language Processing (NLP) for text cleaning, feature engineering to extract threat-related patterns, and ensemble learning algorithms for high accuracy. It also integrates Explainable AI (XAI) to provide insights into classification decisions.
 
-🎯 Objectives
+🎯 ### Objectives
 
 Primary: Detect Spam, Phishing, and Ham emails.
 
@@ -28,7 +29,10 @@ Research: Demonstrate the effectiveness of NLP + Ensemble Learning in email secu
 - **Real-time Classification**: Fast prediction with confidence scores
 - **Batch Processing**: Classify multiple emails simultaneously
   
-  📊 Workflow Diagram
+  📊 ### Workflow Diagram
+  <img width="983" height="579" alt="Image" src="https://github.com/user-attachments/assets/1608bb57-d668-4d05-a4eb-c81f1d81f626" />
+
+
 
 ### Innovative Features
 - **Advanced Text Preprocessing**: Comprehensive cleaning, stemming, lemmatization
@@ -50,7 +54,12 @@ Research: Demonstrate the effectiveness of NLP + Ensemble Learning in email secu
 - **Real-time Analysis**: Live feature analysis and prediction explanations
 - **Statistical Reports**: Detailed performance metrics and model comparisons
 
-📸 Output
+📸 ### Output
+
+
+<img width="991" height="428" alt="Image" src="https://github.com/user-attachments/assets/a08617c4-be91-45ea-93c4-0acaff605b6b" />
+
+<img width="991" height="520" alt="Image" src="https://github.com/user-attachments/assets/ff40cd64-1c50-4441-964b-9a6cdf34d045" />
 
 ### API & Deployment
 - **REST API**: FastAPI-based server with comprehensive endpoints
@@ -269,4 +278,5 @@ Email-Spam-Classifier/
 
 
 **Built with ❤️ using Python, scikit-learn, and modern ML techniques**
+
 
