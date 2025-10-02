@@ -1,6 +1,6 @@
-📧 ### Email Spam Classifier using Machine Learning & NLP
+📧 Email Spam Classifier using Machine Learning & NLP
 
-📌### Project Description
+📌Project Description
 
 The Email Security Intelligence System (ESIS) is a machine learning–based email threat detection solution that goes beyond traditional spam filters. Unlike simple binary spam detection, ESIS performs multi-class classification to identify:
 
@@ -29,7 +29,7 @@ Research: Demonstrate the effectiveness of NLP + Ensemble Learning in email secu
 - **Real-time Classification**: Fast prediction with confidence scores
 - **Batch Processing**: Classify multiple emails simultaneously
   
-  📊 ### Workflow Diagram
+  📊 Workflow Diagram
   <img width="983" height="579" alt="Image" src="https://github.com/user-attachments/assets/1608bb57-d668-4d05-a4eb-c81f1d81f626" />
 
 
@@ -54,7 +54,7 @@ Research: Demonstrate the effectiveness of NLP + Ensemble Learning in email secu
 - **Real-time Analysis**: Live feature analysis and prediction explanations
 - **Statistical Reports**: Detailed performance metrics and model comparisons
 
-📸 ### Output
+📸 Output
 
 
 <img width="991" height="428" alt="Image" src="https://github.com/user-attachments/assets/a08617c4-be91-45ea-93c4-0acaff605b6b" />
@@ -278,5 +278,6 @@ Email-Spam-Classifier/
 
 
 **Built with ❤️ using Python, scikit-learn, and modern ML techniques**
+
 
 
